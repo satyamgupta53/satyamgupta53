@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Satyam Gupta</h1>
 <h3 align="center">Passionate Full Stack Developer & Machine Learning Enthusiast ❤️</h3>
-<img align="right" alt="Coding" width="400" src="[https://imgs.search.brave.com/WGhZ6PtTmC1jMpZw2o9BTw7PWQEeraNERENzJgvnE4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC84NC85NC9j/YXJ0b29uLWNvZGVy/LXlvdW5nLW1hbi12/ZWN0b3ItMzE2ODg0/OTQuanBn](https://imgs.search.brave.com/WGhZ6PtTmC1jMpZw2o9B-Tw7PWQEeraNERENzJgvnE4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC84NC85NC9j/YXJ0b29uLWNvZGVy/LXlvdW5nLW1hbi12/ZWN0b3ItMzE2ODg0/OTQuanBn)">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/WGhZ6PtTmC1jMpZw2o9BTw7PWQEeraNERENzJgvnE4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC84NC85NC9j/YXJ0b29uLWNvZGVy/LXlvdW5nLW1hbi12/ZWN0b3ItMzE2ODg0/OTQuanBn">
 
 - 🔭 I’m currently working on **Foodie PI**
 

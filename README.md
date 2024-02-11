@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, I'm Satyam Gupta</h1>
 <h3 align="center">Passionate Full Stack Developer & Machine Learning Enthusiast ❤️</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **Foodie PI**
 

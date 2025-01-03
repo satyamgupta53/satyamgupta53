@@ -16,9 +16,10 @@
 <a href="https://www.leetcode.com/satyamgupta53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyamgupta53" height="30" width="40" /></a>
 </p>
 
-<div>
+<p>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta53&" alt="satyamgupta53" width="400"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=satyamgupta53&show_icons=true&locale=en" alt="satyamgupta53" width="400"/></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyamgupta53&show_icons=true&locale=en" alt="satyamgupta53" width="400"/>
+</p>
 <!-- <p>&nbsp;</p> -->
 
 
